@@ -1,35 +1,48 @@
-# Business — Generative Engine Optimization Map
+# החלה שניצל של טוהר — Generative Engine Optimization Map
+
+> A premium challah schnitzel ordering page for 'Tohar's Schnitzel Challah' – a bakery specializing in high-quality schnitzel challahs. The brand emphasizes quality and craftsmanship, offering customers an easy way to place orders directly via phone. The business has a warm, homemade feel with a focus on fresh, delicious baked goods.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://hachalla-schnitzel-shel-tohar.zappy5.app
 A premium challah schnitzel ordering page for &#39;Tohar&#39;s Schnitzel Challah&#39; – a bakery specializing in high-quality schnitzel challahs. The brand emphasizes quali
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://hachalla-schnitzel-shel-tohar.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://hachalla-schnitzel-shel-tohar.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://hachalla-schnitzel-shel-tohar.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About החלה שניצל של טוהר
+A premium challah schnitzel ordering page for 'Tohar's Schnitzel Challah' – a bakery specializing in high-quality schnitzel challahs. The brand emphasizes quality and craftsmanship, offering customers an easy way to place orders directly via phone. The business has a warm, homemade feel with a focus on fresh, delicious baked goods.
+
+## Services/Products
+- הזמנת חלות שניצל איכותיות
+
+## Target Audience
+- עסקי קייטרינג
+
+## Industry
+מאפייה / מזון
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://hachalla-schnitzel-shel-tohar.zappy5.app/sitemap.xml
+- **Robots.txt**: https://hachalla-schnitzel-shel-tohar.zappy5.app/robots.txt
